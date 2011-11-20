@@ -2,8 +2,6 @@
 
 <p>This plugin will add Twilio.com functionalities to CFWheels.</p>
 
-<p>Currently only the Mark-it-up editor and ckEditor are supported and both require jQuery.</p>
-
 
 <h2>Syntax</h2>
 
